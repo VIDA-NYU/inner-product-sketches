@@ -1,1 +1,3 @@
-# inner-product-sketches
+# Sketches for Inner Product Estimation
+
+Comming soon.
